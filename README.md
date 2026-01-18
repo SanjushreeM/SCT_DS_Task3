@@ -36,10 +36,10 @@ The dataset contains customer attributes such as:
 
 ## ⚙️ Technologies Used
 
-- Python  
-- Pandas  
-- Scikit-learn  
-- Matplotlib  
+- Python (2.2.2)
+- Pandas (1.26.4) 
+- Scikit-learn (1.5.0)
+- Matplotlib (3.9.0) 
 
 ---
 
