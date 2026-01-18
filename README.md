@@ -56,23 +56,23 @@ Task-03-DecisionTree/
 
 ## 🚀 How to Run the Project
 
-**Clone the Repository**
+**- Clone the Repository**
 
-git clone <your-github-repository-link>
-cd Task-03-DecisionTree
+git clone https://github.com/SanjushreeM/SCT_DS_Task3
+cd SCT_DS_Task3
 
-**Install Required Libraries**
+**- Install Required Libraries**
 
 pip install -r requirements.txt
 
-**Place Dataset**
+**- Place Dataset**
 
 Ensure archive.zip is in the project folder.
 
-**Run the Program**
+**- Run the Program**
 
 - If using Jupyter Notebook:
-jupyter notebook SCT_DS_Task3.ipynb
+jupyter notebook  SCT_DS_Task3.ipynb
 
 ---
 
